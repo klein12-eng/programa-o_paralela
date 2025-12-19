@@ -1,0 +1,3 @@
+C:\Users\ian.ASUS_H770\Documents\Códigos\projeto01\ImpactLa.CAB1A69F\x64\Debug\pavic_gui_2024.vcxproj.AssemblyReference.cache
+C:\Users\ian.ASUS_H770\Documents\Códigos\projeto01\ImpactLa.CAB1A69F\x64\Debug\pavicgui2024.Pavic_gui_2024_Form.resources
+C:\Users\ian.ASUS_H770\Documents\Códigos\projeto01\ImpactLa.CAB1A69F\x64\Debug\pavic_gui_2024.vcxproj.GenerateResource.cache
